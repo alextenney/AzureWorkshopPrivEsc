@@ -1,3 +1,3 @@
 <?php
 
-echo "ucsec{50142w1nd5123}";
+echo "ucsec{s0l@rw1nds123}";
